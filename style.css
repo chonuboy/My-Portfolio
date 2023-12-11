@@ -72,5 +72,8 @@ body {
         width: 90px;
         height: 110px;
     }
+    .profile{
+        font-size: 12px;
+    }
     
 }
