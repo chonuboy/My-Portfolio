@@ -9,7 +9,7 @@ body {
     background-color: black;
     color: white;
 }
-.navbar,.profile,.intro{
+.navbar,.profile,.intro,.Contact{
     margin: 20px;
 }
 
@@ -63,10 +63,14 @@ body {
 }
 @media screen and (max-width:600px) {
     .projects img{
-        width: 400px;
+        width: 200px;
     }
     body{
         font-size: 14px;
+    }
+    .profile img{
+        width: 90px;
+        height: 110px;
     }
     
 }
