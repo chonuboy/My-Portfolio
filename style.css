@@ -63,7 +63,7 @@ body {
 }
 @media screen and (max-width:600px) {
     .projects img{
-        width: 200px;
+        width: 250px;
     }
     body{
         font-size: 14px;
